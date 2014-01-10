@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+  <name>Fault Tree</name>
+  <description>Some shapes for fault tree diagrams.</description>
+  <contents>
+    <object name="Fault Tree AND">
+      <description>AND gate</description>
+    </object>
+    <object name="Fault Tree OR">
+      <description>OR gate</description>
+    </object>
+    <object name="Fault Tree XOR">
+      <description>XOR gate</description>
+    </object>
+    <object name="Fault Tree Priority AND">
+      <description>Priority-AND gate</description>
+    </object>
+    <object name="Fault Tree Basic Event">
+      <description>Basic event</description>
+    </object>
+  </contents>
+</sheet>

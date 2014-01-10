@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+       xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Fault Tree XOR</name>
+  <icon>FaultTreeXor.png</icon>
+  <connections>
+    <point x="60" y="0"/>
+    <point x="9" y="144"/>
+    <point x="26" y="136"/>
+    <point x="43" y="131.5"/>
+    <point x="60" y="130"/>
+    <point x="77" y="131.5"/>
+    <point x="94" y="136"/>
+    <point x="111" y="144"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <textbox x1="20" y1="70" x2="100" y2="130"/>
+  <svg:svg>
+    <svg:path style="fill: background"
+	      d="M 0 150 A 100 100 0 0 1 120 150 A 150 150 0 0 0 60 0 A 150 150 0 0 0 0 150 Z"/>
+    <svg:line x1="60" y1="0" x2="0" y2="150"/>
+    <svg:line x1="60" y1="0" x2="120" y2="150"/>
+  </svg:svg>
+</shape>

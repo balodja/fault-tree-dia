@@ -23,5 +23,6 @@ function makeDiagram() {
 makeDiagram "Fault Tree AND" "FaultTreeAnd.png";
 makeDiagram "Fault Tree OR" "FaultTreeOr.png";
 makeDiagram "Fault Tree XOR" "FaultTreeXor.png";
-makeDiagram "Fault Tree Priority AND" "FaultTreePriorityAnd.png";
+makeDiagram "Fault Tree Priority AND 1" "FaultTreePriorityAnd1.png";
+makeDiagram "Fault Tree Priority AND 2" "FaultTreePriorityAnd2.png";
 makeDiagram "Fault Tree Basic Event" "FaultTreeBasicEvent.png";

@@ -12,8 +12,11 @@
     <object name="Fault Tree XOR">
       <description>XOR gate</description>
     </object>
-    <object name="Fault Tree Priority AND">
-      <description>Priority-AND gate</description>
+    <object name="Fault Tree Priority AND 1">
+      <description>Priority-AND gate (Version 1)</description>
+    </object>
+    <object name="Fault Tree Priority AND 2">
+      <description>Priority-AND gate (Version 2)</description>
     </object>
     <object name="Fault Tree Basic Event">
       <description>Basic event</description>

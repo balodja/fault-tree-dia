@@ -1,18 +1,19 @@
 <?xml version="1.0"?>
 <shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
        xmlns:svg="http://www.w3.org/2000/svg">
-  <name>Fault Tree Priority AND</name>
-  <icon>FaultTreePriorityAnd.png</icon>
+  <name>Fault Tree Priority AND 2</name>
+  <icon>FaultTreePriorityAnd2.png</icon>
   <connections>
     <point x="50" y="0"/>
     <point x="20" y="150"/>
     <point x="80" y="150"/>
   </connections>
   <aspectratio type="fixed"/>
-  <textbox x1="10" y1="50" x2="90" y2="120" />
+  <textbox x1="15" y1="80" x2="85" y2="140" />
   <svg:svg>
     <svg:path style="stroke: foreground; fill: background"
 	      d="M 0 50 V 150 H 100 V 50 A 50 50 0 0 0 0 50 Z"/>
-    <svg:line x1="0" y1="130" x2="100" y2="130"/>
+    <svg:line x1="50" y1="0" x2="0" y2="150"/>
+    <svg:line x1="50" y1="0" x2="100" y2="150"/>
   </svg:svg>
 </shape>

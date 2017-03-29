@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+       xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Fault Tree Input Event</name>
+  <icon>FaultTreeInputEvent.png</icon>
+  <connections>
+    <point x="0" y="0"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:path style="fill: background"
+	      d="M 0 0 L -37 64 L 37 64 Z"/>
+  </svg:svg>
+</shape>

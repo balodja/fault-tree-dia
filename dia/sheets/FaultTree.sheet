@@ -21,6 +21,9 @@
     <object name="Fault Tree Basic Event">
       <description>Basic event</description>
     </object>
+    <object name="Fault Tree Input Event">
+      <description>Input event</description>
+    </object>
     <object name="Fault Tree External Event">
       <description>External event</description>
     </object>

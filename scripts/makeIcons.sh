@@ -26,4 +26,5 @@ makeDiagram "Fault Tree XOR" "FaultTreeXor.png";
 makeDiagram "Fault Tree Priority AND 1" "FaultTreePriorityAnd1.png";
 makeDiagram "Fault Tree Priority AND 2" "FaultTreePriorityAnd2.png";
 makeDiagram "Fault Tree Basic Event" "FaultTreeBasicEvent.png";
+makeDiagram "Fault Tree Input Event" "FaultTreeInputEvent.png";
 makeDiagram "Fault Tree External Event" "FaultTreeExternalEvent.png";
